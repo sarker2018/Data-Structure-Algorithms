@@ -182,3 +182,4 @@ class Stack {
   }
 }
 ```
+* &age means the memory address of the variable age
