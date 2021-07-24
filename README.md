@@ -183,3 +183,4 @@ class Stack {
 }
 ```
 * &age means the memory address of the variable age
+* int age = 10; *pAge = &age; Here we creating a pointer variable pAge and saving the memory aggress of age with that pAge variable
