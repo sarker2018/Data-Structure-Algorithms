@@ -1,9 +1,12 @@
 # Data-structure-and-algorothm
+## We need to have the following drivers installed in our machine:
+  * For java : [Oracle Downloads Page](https://www.oracle.com/java/technologies/javase-downloads.html)
+  * For C & C++: [mingw-w64](http://mingw-w64.org/doku.php/download/mingw-builds)
 Implementierung von DSA mit python und C++
 
 * Runing Java file in Command Prompt
   - Naviagte to the directory
-  - Create a java file with same name as the class name
+  - Creates a java file with same name as the class name
   - run '_javac sample.java_' command
   - run '_java sample_'
 
