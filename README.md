@@ -11,7 +11,7 @@
   - Naviagte to the directory
   - run `java --version` to check if JRE is already installed. In case of successful install one can expect to see like &#8595;
 ```
-   C:\Users\users>java --version
+   C:\Users\yourpcname>java --version
    java 16.0.1 2021-04-20
    Java(TM) SE Runtime Environment (build 16.0.1+9-24)
    Java HotSpot(TM) 64-Bit Server VM (build 16.0.1+9-24, mixed mode, sharing)
@@ -28,6 +28,21 @@
   - Navigate to the directory
   - run `g++ --version` to see if C++ code runner is already installd or not
   - run `gcc --version` to see if C++ code runner is already installd or not
+* In case of successful install one can expect to see like &#8595;
+```
+C:\Users\yourpcname>gcc --version
+gcc (i686-posix-dwarf-rev0, Built by MinGW-W64 project) 8.1.0
+Copyright (C) 2018 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+```
+```
+C:\Users\yourpcname>g++ --version
+g++ (i686-posix-dwarf-rev0, Built by MinGW-W64 project) 8.1.0
+Copyright (C) 2018 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+```
   - run '_g++ sample.cpp -o sample.exe_' to create a .exe object in the directory for .cpp file or
   - run '_g++ sample.c -o sample.exe_' to create a .exe object in the directory for .c file
   - then run 'sample.exe'
