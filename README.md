@@ -17,8 +17,8 @@
    Java HotSpot(TM) 64-Bit Server VM (build 16.0.1+9-24, mixed mode, sharing)
 ```
   - Create a java file with same name as the class name
-  - run '_javac sample.java_' command
-  - run '_java sample_'
+  - run `javac sample.java` command
+  - run `java sample`
 
 
 
